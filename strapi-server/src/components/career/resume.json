@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_resume_resumes",
+  "info": {
+    "displayName": "resume",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "cv": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "files"
+      ]
+    }
+  }
+}
